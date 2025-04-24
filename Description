@@ -1,0 +1,12 @@
+Datasets:
+MedQA (USMLE)
+MedMCQA
+
+Optional: PubMedQA, MMLU-Med subset
+
+Tasks:
+Set up inference pipeline using HuatuoGPT-o1-8B.
+Run evaluation on full test sets.
+Log results in JSON format:
+
+
