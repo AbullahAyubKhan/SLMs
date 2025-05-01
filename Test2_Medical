@@ -1,0 +1,19 @@
+{"question": "Which part of the brain is responsible for regulating body temperature?", "response": "The hypothalamus controls thermoregulation and maintains homeostasis.", "pred": "Hypothalamus", "gt_ans": "Hypothalamus", "dataset": "medical_mock", "correct": true}
+
+{"question": "What is the first-line treatment for uncomplicated hypertension?", "response": "Thiazide diuretics, ACE inhibitors, or calcium channel blockers are first-line for hypertension.", "pred": "Thiazide diuretics", "gt_ans": "Thiazide diuretics", "dataset": "medical_mock", "correct": true}
+
+{"question": "Which bacteria causes tuberculosis?", "response": "Mycobacterium tuberculosis is the causative agent of TB.", "pred": "Mycobacterium tuberculosis", "gt_ans": "Mycobacterium tuberculosis", "dataset": "medical_mock", "correct": true}
+
+{"question": "What is the function of platelets in the blood?", "response": "Platelets are crucial for blood clotting and wound healing.", "pred": "Blood clotting", "gt_ans": "Blood clotting", "dataset": "medical_mock", "correct": true}
+
+{"question": "Which hormone is produced by the beta cells of the pancreas?", "response": "Beta cells secrete insulin to regulate blood glucose levels.", "pred": "Insulin", "gt_ans": "Insulin", "dataset": "medical_mock", "correct": true}
+
+{"question": "What is the most common cause of peptic ulcers?", "response": "Helicobacter pylori infection and NSAID use are primary causes.", "pred": "Helicobacter pylori", "gt_ans": "Helicobacter pylori", "dataset": "medical_mock", "correct": true}
+
+{"question": "Which electrolyte imbalance causes muscle cramps and tetany?", "response": "Hypocalcemia leads to neuromuscular irritability and tetany.", "pred": "Low calcium (hypocalcemia)", "gt_ans": "Low calcium (hypocalcemia)", "dataset": "medical_mock", "correct": true}
+
+{"question": "What is the target organ of thyroid-stimulating hormone (TSH)?", "response": "TSH acts on the thyroid gland to stimulate hormone production.", "pred": "Thyroid gland", "gt_ans": "Thyroid gland", "dataset": "medical_mock", "correct": true}
+
+{"question": "Which vitamin deficiency causes scurvy?", "response": "Scurvy results from inadequate vitamin C intake.", "pred": "Vitamin C", "gt_ans": "Vitamin C", "dataset": "medical_mock", "correct": true}
+
+{"question": "What is the normal resting heart rate range for adults?", "response": "Normal adult heart rate is 60–100 beats per minute.", "pred": "60–100 bpm", "gt_ans": "60–100 bpm", "dataset": "medical_mock", "correct": true}
