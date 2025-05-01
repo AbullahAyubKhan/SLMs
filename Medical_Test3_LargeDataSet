@@ -1,0 +1,39 @@
+{"question": "What is the most common type of stroke?", "response": "Ischemic stroke accounts for approximately 87% of all stroke cases.", "pred": "Ischemic stroke", "gt_ans": "Ischemic stroke", "dataset": "medical_mock", "correct": true}
+
+{"question": "Which cranial nerve is responsible for vision?", "response": "Cranial nerve II (optic nerve) transmits visual information from the retina to the brain.", "pred": "Optic nerve (CN II)", "gt_ans": "Optic nerve (CN II)", "dataset": "medical_mock", "correct": true}
+
+{"question": "What is the gold standard diagnostic test for diabetes mellitus?", "response": "Hemoglobin A1c testing is considered the gold standard for diabetes diagnosis.", "pred": "Hemoglobin A1c test", "gt_ans": "Hemoglobin A1c test", "dataset": "medical_mock", "correct": true}
+
+{"question": "Which organ produces clotting factors in the coagulation cascade?", "response": "The liver synthesizes most clotting factors, including fibrinogen and prothrombin.", "pred": "Liver", "gt_ans": "Liver", "dataset": "medical_mock", "correct": true}
+
+{"question": "What is the primary function of aldosterone?", "response": "Aldosterone regulates sodium and potassium balance in the kidneys.", "pred": "Regulates sodium-potassium balance", "gt_ans": "Regulates sodium-potassium balance", "dataset": "medical_mock", "correct": true}
+
+{"question": "Which heart valve separates the left atrium from the left ventricle?", "response": "The mitral valve (bicuspid valve) controls blood flow between these chambers.", "pred": "Mitral valve", "gt_ans": "Mitral valve", "dataset": "medical_mock", "correct": true}
+
+{"question": "What type of immunity is provided by vaccination?", "response": "Vaccines induce active acquired immunity by stimulating antibody production.", "pred": "Active immunity", "gt_ans": "Active immunity", "dataset": "medical_mock", "correct": true}
+
+{"question": "Which cells produce antibodies in the immune system?", "response": "B lymphocytes (B cells) differentiate into plasma cells that secrete antibodies.", "pred": "B cells", "gt_ans": "B cells", "dataset": "medical_mock", "correct": true}
+
+{"question": "What is the most common cause of community-acquired pneumonia?", "response": "Streptococcus pneumoniae is responsible for most community-acquired pneumonia cases.", "pred": "Streptococcus pneumoniae", "gt_ans": "Streptococcus pneumoniae", "dataset": "medical_mock", "correct": true}
+
+{"question": "Which electrolyte is primarily responsible for resting membrane potential?", "response": "Potassium (K+) is the major determinant of resting membrane potential in cells.", "pred": "Potassium", "gt_ans": "Potassium", "dataset": "medical_mock", "correct": true}
+
+{"question": "What is the function of surfactant in the lungs?", "response": "Pulmonary surfactant reduces surface tension in alveoli, preventing collapse.", "pred": "Reduces alveolar surface tension", "gt_ans": "Reduces alveolar surface tension", "dataset": "medical_mock", "correct": true}
+
+{"question": "Which enzyme converts angiotensin I to angiotensin II?", "response": "Angiotensin-converting enzyme (ACE) mediates this conversion in the lungs.", "pred": "ACE (Angiotensin-converting enzyme)", "gt_ans": "ACE (Angiotensin-converting enzyme)", "dataset": "medical_mock", "correct": true}
+
+{"question": "What is the most common type of skin cancer?", "response": "Basal cell carcinoma accounts for about 80% of all skin cancer cases.", "pred": "Basal cell carcinoma", "gt_ans": "Basal cell carcinoma", "dataset": "medical_mock", "correct": true}
+
+{"question": "Which part of the nephron is responsible for water reabsorption?", "response": "The proximal convoluted tubule reabsorbs about 65% of filtered water.", "pred": "Proximal convoluted tubule", "gt_ans": "Proximal convoluted tubule", "dataset": "medical_mock", "correct": true}
+
+{"question": "What is the primary neurotransmitter in Parkinson's disease?", "response": "Dopamine deficiency in the substantia nigra causes Parkinson's symptoms.", "pred": "Dopamine", "gt_ans": "Dopamine", "dataset": "medical_mock", "correct": true}
+
+{"question": "Which vitamin is required for proper blood clotting?", "response": "Vitamin K is essential for the synthesis of clotting factors II, VII, IX, and X.", "pred": "Vitamin K", "gt_ans": "Vitamin K", "dataset": "medical_mock", "correct": true}
+
+{"question": "What is the normal range for arterial blood pH?", "response": "Normal arterial blood pH is tightly maintained between 7.35 and 7.45.", "pred": "7.35-7.45", "gt_ans": "7.35-7.45", "dataset": "medical_mock", "correct": true}
+
+{"question": "Which organ is primarily affected in cirrhosis?", "response": "Cirrhosis involves progressive fibrosis and damage to liver tissue.", "pred": "Liver", "gt_ans": "Liver", "dataset": "medical_mock", "correct": true}
+
+{"question": "What is the mechanism of action of proton pump inhibitors?", "response": "PPIs irreversibly block the H+/K+ ATPase enzyme in gastric parietal cells.", "pred": "Inhibit H+/K+ ATPase pump", "gt_ans": "Inhibit H+/K+ ATPase pump", "dataset": "medical_mock", "correct": true}
+
+{"question": "Which hormone stimulates red blood cell production?", "response": "Erythropoietin, produced primarily in the kidneys, regulates erythropoiesis.", "pred": "Erythropoietin", "gt_ans": "Erythropoietin", "dataset": "medical_mock", "correct": true}
