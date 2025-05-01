@@ -1,0 +1,5 @@
+{"question": "Evaluate the integral of x dx.", "response": "The integral of x with respect to x is (1/2)x^2 + C.", "pred": "(1/2)x^2 + C", "gt_ans": "(1/2)x^2 + C", "dataset": "college_math", "correct": true}
+{"question": "What is the derivative of sin(x)?", "response": "The derivative of sin(x) is cos(x).", "pred": "cos(x)", "gt_ans": "cos(x)", "dataset": "college_math", "correct": true}
+{"question": "Solve for x: 2x + 3 = 7", "response": "Subtracting 3 from both sides gives 2x = 4, so x = 2.", "pred": "2", "gt_ans": "2", "dataset": "college_math", "correct": true}
+{"question": "What is the limit of (1/x) as x approaches infinity?", "response": "The limit of 1/x as x approaches infinity is 0.", "pred": "0", "gt_ans": "0", "dataset": "college_math", "correct": true}
+{"question": "Simplify: (x^2 - 1)/(x - 1)", "response": "Factor numerator: (x - 1)(x + 1) / (x - 1) = x + 1", "pred": "x + 1", "gt_ans": "x + 1", "dataset": "college_math", "correct": true}
