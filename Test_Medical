@@ -1,0 +1,11 @@
+{"question": "What is the primary neurotransmitter at the neuromuscular junction?", "response": "The neurotransmitter responsible for muscle contraction at the neuromuscular junction is acetylcholine.", "pred": "Acetylcholine", "gt_ans": "Acetylcholine", "dataset": "medical_mock", "correct": true}
+
+{"question": "Which artery supplies blood to the heart muscle itself?", "response": "The coronary arteries supply oxygenated blood to the myocardium.", "pred": "Coronary arteries", "gt_ans": "Coronary arteries", "dataset": "medical_mock", "correct": true}
+
+{"question": "What is the mechanism of action of beta-blockers?", "response": "Beta-blockers competitively inhibit beta-adrenergic receptors, reducing sympathetic nervous system effects.", "pred": "Beta-adrenergic receptor antagonism", "gt_ans": "Beta-adrenergic receptor antagonism", "dataset": "medical_mock", "correct": true}
+
+{"question": "Where is bile produced in the body?", "response": "Bile is synthesized in the liver and stored in the gallbladder.", "pred": "Liver", "gt_ans": "Liver", "dataset": "medical_mock", "correct": true}
+
+{"question": "What is the normal pH range of human blood?", "response": "Blood pH is tightly regulated between 7.35 and 7.45 in healthy individuals.", "pred": "7.35-7.45", "gt_ans": "7.35-7.45", "dataset": "medical_mock", "correct": true}
+
+{"question": "Which vitamin is deficient in pernicious anemia?", "response": "Pernicious anemia results from impaired absorption of vitamin B12 due to lack of intrinsic factor.", "pred": "Vitamin B12", "gt_ans": "Vitamin B12", "dataset": "medical_mock", "correct": true}
