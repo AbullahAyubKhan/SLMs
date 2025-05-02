@@ -15,6 +15,17 @@ An outline of the transformer architecture is provided below:
 ● Decoders create the most statistically likely output sequence by utilising this self-attention process in conjunction with the encoders' embeddings.
 
 
+# Model Checklist
+
+Model Loading: HuatuoGPT-o1-8B is typically a causal language model (e.g., based on LLaMA or ChatGLM). So:
+Use AutoModelForCausalLM instead of AutoModel
+Tokenization doesn't use token type IDs
+Input Formatting for MCQA:
+Format: "context\n\nQuestion: ...\nA. ...\nB. ...\nC. ...\nD. ...\nAnswer:"
+All options embedded in the prompt
+No pooled output: Use the last token logits to predict the correct answer
+
+
 Primary Libraries and Frameworks
 # Create a virtual environment (optional)
 python3 -m venv slm_env
