@@ -164,6 +164,25 @@ def main():
 if __name__ == "__main__":
     main()
 
+# Results of MedQA
+
+Result MedQA
+
+Metric	Value
+Total Questions	50
+Correct Answer Matches	50
+Accuracy (%)	100.0%
+
+Average Reasoning Length (chars)	140.46 characters
+
+Question (Excerpt)	Correct Answer	Reasoning
+21-year-old male with joint pain and dysuria	Ceftriaxone	The patient's symptoms suggest a urogenital infection. The correct antibiotic inhibits bacterial cell wall synthesis, consistent with Ceftriaxone.
+5-year-old girl with episodic vomiting	Cyclic vomiting syndrome	The correct answer is Cyclic vomiting syndrome due to episodic vomiting with well periods in between.
+40-year-old woman with insomnia and low mood	Trazodone	Trazodone is an antidepressant commonly used to treat depression-related symptoms, including insomnia.
+37-year-old diabetic female with flank pain and fever	Obtain a urine analysis and urine culture	The patient's symptoms suggest a urogenital infection. The correct approach is to confirm the diagnosis with a urine analysis.
+19-year-old with fruity breath and confusion	Hypoperfusion	The correct answer is Hypoperfusion based on signs of diabetic ketoacidosis and low blood pressure.
+
+
 # Research Problems / Limitations are find
 
 # Research Problem
