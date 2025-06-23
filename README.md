@@ -98,15 +98,11 @@ import json
 import sys
 import re
 
-# Optional: For Elasticsearch posting
 import requests
 
-# CONFIG
-ELASTIC_SEARCH_URL = None  # Example: 'http://localhost:9200/medqa/huatuo/_bulk'
 SAVE_TO_FILE = True
 OUTPUT_FILE = "huatuo_medqa.jsonl"
 
-# Converts a single MedQA item to HuatuoGPT-style instruction JSON
 def convert_to_huatuo_format(item):
     context = item.get('exp', '').strip()
     question = item['question'].strip()
@@ -129,7 +125,6 @@ def convert_to_huatuo_format(item):
         "output": f"{option_letters[correct_index]}. {correct_answer}"
     }
 
-# For bulk Elasticsearch upload
 def to_elasticsearch_bulk_format(json_objects):
     payload_lines = []
     for obj in json_objects:
