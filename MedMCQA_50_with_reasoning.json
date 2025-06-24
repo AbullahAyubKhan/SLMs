@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "MedMCQA": "Patient reports nausea and abdominal cramps.",
+    "reasoning": "These symptoms may indicate a gastrointestinal infection or food poisoning. Further evaluation of recent dietary intake and stool tests is recommended."
+  },
+  {
+    "id": 2,
+    "MedMCQA": "High fever with sore throat and fatigue.",
+    "reasoning": "These are typical of viral pharyngitis or possibly mononucleosis. A throat swab and complete blood count would help confirm the diagnosis."
+  },
+  {
+    "id": 3,
+    "MedMCQA": "Chronic back pain worsening over 3 months.",
+    "reasoning": "Chronic worsening pain suggests possible degenerative spine disease or disc herniation. Imaging such as MRI should be considered."
+  },
+  {
+    "id": 4,
+    "MedMCQA": "Shortness of breath on mild exertion with swollen ankles.",
+    "reasoning": "Signs point toward potential congestive heart failure or renal dysfunction. Recommend echocardiography and renal panel."
+  },
+  {
+    "id": 5,
+    "MedMCQA": "Severe headache followed by blurred vision and dizziness.",
+    "reasoning": "Could indicate a neurological event like migraine with aura or increased intracranial pressure. Neuroimaging is advised."
+  }
+]
