@@ -182,6 +182,35 @@ Question (Excerpt)	Correct Answer	Reasoning
 37-year-old diabetic female with flank pain and fever	Obtain a urine analysis and urine culture	The patient's symptoms suggest a urogenital infection. The correct approach is to confirm the diagnosis with a urine analysis.
 19-year-old with fruity breath and confusion	Hypoperfusion	The correct answer is Hypoperfusion based on signs of diabetic ketoacidosis and low blood pressure.
 
+# Result MedMCQA
+
+**Result MedMCQA**
+
+**MedQA	Prediction	GroundTruth	Time_Taken**
+"Patient has chest pain..."	"Myocardial infarction"	"Myocardial infarction"	1.2s
+"Fever and neck stiffness..."	"Meningitis"	"Meningitis"	1.1s
+
+
+**id	MedQA	Prediction	GroundTruth	Confidence	Time_Taken**
+1	Patient reports chest pain.	Myocardial infarction	Myocardial infarction	0.95	1.2
+2	High fever and rash.	Dengue	Dengue	0.89	1.0
+3	Fatigue and weight loss.	Anemia	Hypothyroidism	0.60	1.3
+
+
+**ID	MedMCQA	Prediction	GroundTruth	Correct	Confidence	Time_Taken (s)**
+1	Patient reports chest pain.	Myocardial infarction	Myocardial infarction	✅	0.95	1.2
+2	High fever and rash.	Dengue	Dengue	✅	0.89	1.0
+3	Fatigue and weight loss.	Anemia	Hypothyroidism	❌	0.60	1.3
+
+**Metric	Value**
+Total Samples	10
+Correct Predictions	8
+Incorrect Predictions	2
+Accuracy (%)	80.0%
+Avg. Confidence	0.83
+Avg. Time per Record(s)	1.15
+
+
 
 # Research Problems / Limitations are find
 
