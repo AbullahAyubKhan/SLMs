@@ -198,9 +198,9 @@ Question (Excerpt)	Correct Answer	Reasoning
 
 
 **ID	MedMCQA	Prediction	GroundTruth	Correct	Confidence	Time_Taken (s)**
-1	Patient reports chest pain.	Myocardial infarction	Myocardial infarction	✅	0.95	1.2
-2	High fever and rash.	Dengue	Dengue	✅	0.89	1.0
-3	Fatigue and weight loss.	Anemia	Hypothyroidism	❌	0.60	1.3
+1	Patient reports chest pain.	Myocardial infarction	Myocardial infarction		0.95	1.2
+2	High fever and rash.	Dengue	Dengue		0.89	1.0
+3	Fatigue and weight loss.	Anemia	Hypothyroidism		0.60	1.3
 
 **Metric	Value**
 Total Samples	10
